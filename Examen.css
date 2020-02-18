@@ -1,0 +1,20 @@
+#ilg{
+    position: inline;
+    padding-left: 90%;
+}
+
+
+#ulg{
+    position: absolute;
+    margin-inline-start: 0px;
+}
+
+#db{
+    background-color: blue;
+}
+
+
+
+ul{
+    position: relative;
+}
